@@ -52,4 +52,4 @@ with `<algorithm-file>` being the valid filename of the algorithm without the ex
 For example, If I want to run the Linear regression example, I would do 
 `python -m mlfromscratch.linear_regression`
 
-## Watch the Playlist
+
